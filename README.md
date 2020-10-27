@@ -1,6 +1,4 @@
 # Sistemaven Simple registradora
-**Fork del repositorio original** https://github.com/Brian-54/Sistemaven
-
 Proyecto escolar del instituto:
 IPN - UPIICSA
 
