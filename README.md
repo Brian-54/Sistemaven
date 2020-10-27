@@ -8,11 +8,11 @@ Profesor:
 Miranda Chavez Edna Martha.
 
 ## Capturas
-![alt text](https://www.github.com/LuisFlahan4051/Sistemaven/screenshots/Screenshot1.png)
-![alt text](https://www.github.com/LuisFlahan4051/Sistemaven/screenshots/Screenshot2.png)
-![alt text](https://www.github.com/LuisFlahan4051/Sistemaven/screenshots/Screenshot3.png)
-![alt text](https://www.github.com/LuisFlahan4051/Sistemaven/screenshots/Screenshot4.png)
-![alt text](https://www.github.com/LuisFlahan4051/Sistemaven/screenshots/Screenshot5.png)
+![alt text](Screenshot1.png)
+![alt text](Screenshot2.png)
+![alt text](Screenshot3.png)
+![alt text](Screenshot4.png)
+![alt text](Screenshot5.png)
 
 ## Tecnologías usadas 🛠️
 
